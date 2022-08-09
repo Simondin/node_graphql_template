@@ -1,0 +1,1 @@
+module.exports = async function updateBook(_: any, args: any) { }
